@@ -7,8 +7,10 @@ This section outlines how to identify and analyze phishing emails, using the pro
 
 1. **Find Phishing Email Templates**:
    - Use online templates to simulate phishing emails:
-     - [PhishTemplate](https://github.com/PhishTemplate/phish-template)
-     - [OWASP Phishing Toolkit](https://owasp.org/www-community/Phishing_Toolkit)
+     - [PhishingTemplates](https://github.com/criggs626/PhishingTemplates) (GoPhish-compatible templates).
+     - [LinkSec Phishing Templates](https://github.com/LinkSec/phishing-templates) (50+ ethical training templates).
+     - [CanIPhish Templates](https://caniphish.com) (90+ themed templates).
+   - **Note**: Search GitHub for "phishing templates" if links are broken, and verify repository activity before use.
    - These provide sample structures for testing.
 
 2. **Create and Send a Test Email**:
