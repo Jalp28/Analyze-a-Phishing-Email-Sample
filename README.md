@@ -57,8 +57,12 @@ This section outlines how to identify and analyze phishing emails, using the pro
 
 ### Mitigation and Best Practices
 
-- **Avoid Clicking Links**: Report the email to your email provider (e.g., Gmail’s "Report Phishing" option).
-- **Educate Users**: Train on recognizing urgency and mismatched domains.
-- **Secure Headers**: Use tools like Trustifi regularly to monitor email security.
+- **Avoid Clicking Links**: Report suspicious emails to your email provider (e.g., Gmail’s "Report Phishing" option) and avoid interacting with unknown links.
+- **Educate Users**: Train others to recognize urgency, mismatched domains, and generic greetings as phishing red flags.
+- **Secure Headers**: Regularly use tools like [Trustifi Email Analyzer](https://trustifi.com/email-analyzer/) to monitor email authentication (SPF, DKIM, DMARC) and routing.
+- **Verify Sender**: Cross-check sender domains against official sources (e.g., `linkedin.com` for LinkedIn emails) before responding.
+- **Update Systems**: Keep email clients and security software updated to block known phishing patterns.
+- **Backup Data**: Maintain offline backups to recover from potential phishing-related data loss.
 
 > **Warning**: Always analyze with permission to avoid legal issues. This guide is for educational purposes only.
+
